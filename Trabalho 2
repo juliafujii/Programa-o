@@ -1,0 +1,41 @@
+1- Pergunta 1: Análise de crédito pode usar algoritmos?
+
+A utilização de algoritmos na análise de crédito tem se tornado cada vez mais comum nos últimos anos. Algoritmos de aprendizado de máquina e inteligência artificial têm demonstrado eficácia na avaliação de risco de crédito, permitindo uma análise mais abrangente e precisa das informações dos solicitantes. Esses algoritmos podem processar uma grande quantidade de dados, considerando não apenas informações tradicionais de crédito, como histórico de pagamentos, mas também outros fatores relevantes, como comportamento de consumo, presença em redes sociais e padrões de gastos.
+
+Referências:
+
+Müller, M., & Mersmann, O. (2017). Credit Scoring with R. Springer.
+Thomas, L. C., Edelman, D. B., & Crook, J. N. (2002). Credit Scoring and Its Applications. SIAM.
+Brown, L. D., & Walter, J. K. (2017). Data-Driven Credit Scoring: Implications for Measuring Financial Inclusion. World Development, 100, 64-76.
+Pergunta 2: Negativa de crédito precisa ser justificada?
+
+A legislação e as regulamentações variam de acordo com o país e a jurisdição, mas geralmente há requisitos para que as instituições financeiras justifiquem a negativa de crédito a um solicitante. Isso visa promover a transparência, a equidade e a prevenção de discriminação injusta. A justificativa pode envolver a comunicação ao solicitante sobre os critérios específicos que levaram à recusa, como um histórico de pagamentos negativo, alta relação dívida/renda ou falta de histórico de crédito.
+
+Referências:
+
+Consumer Financial Protection Bureau. (2020). Fair Lending Report of the Bureau of Consumer Financial Protection.
+U.S. Equal Credit Opportunity Act, 15 U.S.C. § 1691.
+European Commission. (2011). Proposal for a Directive of the European Parliament and of the Council on Credit Agreements Relating to Residential Property.
+Souza, J. C., & Sobreiro, V. A. (2019). Exploring the relationship between credit risk and disclosure: Evidence from Brazilian firms. Journal of Corporate Finance, 58, 1-18.
+
+
+
+
+
+
+
+
+
+
+2- Uma Rede Neural Artificial (RNA) é um modelo computacional inspirado no funcionamento do sistema nervoso humano. Ela é uma estrutura composta por unidades de processamento interconectadas, chamadas de neurônios artificiais ou nodos, que trabalham em conjunto para realizar tarefas complexas, como reconhecimento de padrões, classificação, previsão e tomada de decisões.
+
+Assim como os neurônios no cérebro humano estão interconectados por sinapses, os neurônios artificiais em uma rede neural também estão conectados através de pesos que determinam a força e a direção das conexões. Esses pesos são ajustados durante o treinamento da rede neural para que ela possa aprender a mapear entradas para saídas desejadas de maneira eficaz.
+
+As redes neurais podem ter várias camadas, como a camada de entrada, camadas intermediárias (também conhecidas como camadas ocultas) e a camada de saída. A informação flui da camada de entrada através das camadas intermediárias até a camada de saída, passando por transformações e extração de características ao longo do caminho.
+
+Referências:
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+Haykin, S. (1999). Neural Networks: A Comprehensive Foundation. Prentice Hall.
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.
+McCulloch, W. S., & Pitts, W. (1943). A Logical Calculus of the Ideas Immanent in Nervous Activity. Bulletin of Mathematical Biophysics, 5(4), 115-133.
