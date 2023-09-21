@@ -1,0 +1,15 @@
+Phyton - Python é uma linguagem de programação de alto nível, ou seja, com sintaxe mais simplificada e próxima da linguagem humana, utilizada nas mais diversas aplicações, como desktop, web, servidores e ciência de dados.
+Java - Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+Java Script - JavaScript (JS) é uma linguagem de programação que pode ser rodada em um navegador de internet. Ela ganhou um papel de protagonismo pela facilidade de uso, embora tenha elementos bastante complexos. Parte da sua referência se dá pelo modo que permite a integração e comunicação dentro de um site.
+Diferenças - JavaScript é ideal para projetos front-end, o Python é adequado para projetos que envolvam data science, inteligência artificial ou IoT, e o Java é a melhor opção para projetos mais robustos, como aplicativos móveis de grande porte
+Codigos: 
+Java - 
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+        // Hello World!
+    }
+}
+
+Pyhton- print("Hello World!")
+JavaScript - console.log("Hello, World!");
